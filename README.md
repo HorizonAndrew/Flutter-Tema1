@@ -1,4 +1,4 @@
-# GAD Tema 1 - Nămolovan Andruh
+# GAD Flutter, Tema 1 - Nămolovan Andruh
 
 <img src="https://user-images.githubusercontent.com/86712559/160863590-8797469b-f5c0-4b9a-9cc1-eb549324ade4.png" width="432" height="888">
 <img src="https://user-images.githubusercontent.com/86712559/160863597-307916fb-2898-457b-a945-3bbc0bd43717.png" width="432" height="888">
