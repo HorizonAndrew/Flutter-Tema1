@@ -1,16 +1,7 @@
-# untitled
+# GAD Tema 1 - Nămolovan Andruh
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/86712559/160863590-8797469b-f5c0-4b9a-9cc1-eb549324ade4.png" width="432" height="888">
+<img src="https://user-images.githubusercontent.com/86712559/160863597-307916fb-2898-457b-a945-3bbc0bd43717.png" width="432" height="888">
+<img src="https://user-images.githubusercontent.com/86712559/160863600-fbe530c2-067e-47e5-9cf9-5e10ca802f85.png" width="432" height="888">
+<img src="https://user-images.githubusercontent.com/86712559/160863601-6244260f-3fa0-43c3-b0ef-2cb6707a4c6d.png" width="432" height="888">
+<img src="https://user-images.githubusercontent.com/86712559/160863603-c50450eb-99f2-4ddb-85c7-d2e925f18413.png" width="432" height="888">
